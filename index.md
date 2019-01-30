@@ -2,7 +2,8 @@
 # **Gruppen**
 ##### Magnus Klitmose: ![Image](src)
 ##### Mathias Kristensen: ![Image](src)
-##### Simon Bojesen: ![Simon billede](https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/13692671_716736255143991_7071741898971111515_n.jpg?_nc_cat=101&_nc_ht=scontent-ams3-1.xx&oh=f886fd5a421bfe54c04251cac4353562&oe=5CECC1FC =100x)
+##### Simon Bojesen: 
+<img src="https://scontent-ams3-1.xx.fbcdn.net/v/t1.0-9/13692671_716736255143991_7071741898971111515_n.jpg?_nc_cat=101&_nc_ht=scontent-ams3-1.xx&oh=f886fd5a421bfe54c04251cac4353562&oe=5CECC1FC" alt="drawing" width="200"/>
 ##### Rasmus Jacobsen: ![Image](src)
 
 
