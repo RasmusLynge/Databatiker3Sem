@@ -1,4 +1,5 @@
-## Datamatiker 3. Sem MMRS
+# **MMRS**
+## Datamatiker 3. Sem 
 
 You can use the [editor on GitHub](https://github.com/RasmusLynge/Databatiker3Sem/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
