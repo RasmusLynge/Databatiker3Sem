@@ -5,7 +5,18 @@
 ##### Simon Bojesen: 
 ##### Rasmus Jacobsen:
 
- ![Image](src)
+
+## Versionering
+I gruppen har vi valgt at bruge følgene versioner:
+- JDK 8 ?
+- SQL 5.7.21
+- Mere ?
+
+
+
+
+
+### Hjælp til github pages/Markdown (til gruppen)
 
 You can use the [editor on GitHub](https://github.com/RasmusLynge/Databatiker3Sem/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
