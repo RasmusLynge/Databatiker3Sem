@@ -1,17 +1,19 @@
 
-# **Gruppen**
-##### Magnus Klitmose:
-##### Mathias Kristensen:
-##### Simon Bojesen: 
-##### Rasmus Jacobsen:
+# **Gruppe 5 - MMRS**
+##### Magnus Klitmose: _Magmose_
+##### Mathias Kristensen: _mathiasbk1_
+##### Simon Bojesen: _SimonBojesen_
+##### Rasmus Jacobsen: _RasmusLynge_
 
 
-#### Versionering
+##### Versionering
 I gruppen har vi valgt at bruge følgene versioner:
 - JDK 8 ?
 - SQL 5.7.21
 - Mere ?
 
+##### Formatering
+I gruppen har vi valgt at bruge netbeans egen formatering (Ctrl-F)
 
 
 
