@@ -1,11 +1,10 @@
 ### Uge 1 
   (med gruppe dokument)
   
-  # **Gruppe 5 - MMRS - Rød**
-<img src="Magnus.jpg" width="200"/>  **Magnus Klitmose:** _Magmose_  
-[Mathias](Mathias.png =250x)  **Mathias Kristensen:** _mathiasbk1_  
-[Simon](Simon.png =250x)  **Simon Bojesen:** _SimonBojesen_  
-[Rasmus](Rasmus.png =250x)  **Rasmus Jacobsen:** _RasmusLynge_  
+<img src="Magnus.png" width="200"/>  **Magnus Klitmose:** _Magmose_  
+<img src="Mathias.png" width="200"/>  **Mathias Kristensen:** _mathiasbk1_  
+<img src="Simon.png" width="200"/>  **Simon Bojesen:** _SimonBojesen_  
+<img src="Rasmus.png" width="200"/>  **Rasmus Jacobsen:** _RasmusLynge_  
   
 ###### Versionering
 I gruppen har vi valgt at bruge følgene versioner:
