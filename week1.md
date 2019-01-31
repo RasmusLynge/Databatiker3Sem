@@ -31,7 +31,7 @@
   
 ### Formatering:
 - I gruppen har vi valgt at bruge netbeans egen formatering (Alt-Shift-F)
-- Navngivning følger [Javas style guidelines](https://google.github.io/styleguide/javaguide.html) 
+- Navngivning følger [Javas style guidelines](https://google.github.io/styleguide/javaguide.html#s5-naming) 
 - Javadoc skal kun skrives til public metoder og ikke til getters og setters
   <br>
   <br>
