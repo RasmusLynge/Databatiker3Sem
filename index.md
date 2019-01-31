@@ -4,8 +4,6 @@
 **Mathias Kristensen:** _mathiasbk1_  
 **Simon Bojesen:** _SimonBojesen_  
 **Rasmus Jacobsen:** _RasmusLynge_  
-  
-###### [Group Document](week1.md)
 
 ## indhold
   
@@ -15,6 +13,7 @@
 | 5    |  28/01/19 | [Testing, TDD, CI](week1.md) |
 | 6    |  04/02/19 |                |
 | 7    |  11/02/19 |                | 
+  
   
   
 
