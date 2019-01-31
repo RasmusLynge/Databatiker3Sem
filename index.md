@@ -1,5 +1,3 @@
-<title> MMRS </title>
-
 # **Gruppe 5 - MMRS**
 **Magnus Klitmose:** _Magmose_  
 **Mathias Kristensen:** _mathiasbk1_  
