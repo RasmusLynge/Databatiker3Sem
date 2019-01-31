@@ -1,6 +1,6 @@
 ## Uge 1
 
-### Gruppe 5 - MMRS  
+### Gruppe 5 - MMRS - Rød
 <img src="Magnus.png" width="100"/>  
 **Magnus Klitmose:** _Magmose_  
   
