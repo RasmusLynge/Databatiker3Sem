@@ -14,7 +14,7 @@
 **Rasmus Jacobsen:** _RasmusLynge_  
   
   
-### Gruppe Code of Conduct:
+### Gruppens _Code of Conduct:_
 - Communicate openly
 - Share issues with the team
 - Use consensus for team decisions
