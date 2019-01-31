@@ -2,10 +2,10 @@
   (med gruppe dokument)
   
   # **Gruppe 5 - MMRS - Rød**
-![Magnus](Magnus.png =250x)  **Magnus Klitmose:** _Magmose_  
-![Mathias](Mathias.png =250x)  **Mathias Kristensen:** _mathiasbk1_  
-![Simon](Simon.png =250x)  **Simon Bojesen:** _SimonBojesen_  
-![Rasmus](Rasmus.png =250x)  **Rasmus Jacobsen:** _RasmusLynge_  
+[Magnus](Magnus.png =250x)  **Magnus Klitmose:** _Magmose_  
+[Mathias](Mathias.png =250x)  **Mathias Kristensen:** _mathiasbk1_  
+[Simon](Simon.png =250x)  **Simon Bojesen:** _SimonBojesen_  
+[Rasmus](Rasmus.png =250x)  **Rasmus Jacobsen:** _RasmusLynge_  
   
 ###### Versionering
 I gruppen har vi valgt at bruge følgene versioner:
