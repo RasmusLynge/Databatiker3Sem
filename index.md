@@ -6,11 +6,11 @@
 **Rasmus Jacobsen:** _RasmusLynge_  
   
   
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |  
+|Uge   |  Dato     |Emne |
+|------|:---------:|--------------:|
+| 5    |  28/01/19 | Testing TDD CI |
+| 6    |           |                |
+| 7    |           |                |  
   
   
 ### Uge 1
@@ -22,7 +22,8 @@ I gruppen har vi valgt at bruge følgene versioner:
   
   
 ###### Formatering
-I gruppen har vi valgt at bruge netbeans egen formatering (Ctrl-F)
+- I gruppen har vi valgt at bruge netbeans egen formatering (Ctrl-F)
+- Navngivning følger javas standart regler
 
 
 
