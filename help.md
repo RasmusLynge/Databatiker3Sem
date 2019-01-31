@@ -1,4 +1,4 @@
-### Hjælp til github pages/Markdown (til gruppen)
+# Hjælp til github pages/Markdown (til gruppen)
 
 [Her er der et markdown cheat sheet](https://guides.github.com/features/mastering-markdown/) 
 
