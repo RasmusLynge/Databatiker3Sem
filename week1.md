@@ -42,12 +42,21 @@ I gruppen har vi valgt at bruge følgene versioner:
 - JDK 1.8
 - SQL 5.7.21
 - Maven 3.6.0
+  <br>
+  <br>
   
  ### Uge 1 Agenda:
  - Udarbejdet på discord
- 
+  <br>
+  <br>
+  
  ### Konflikter i gruppen:
  - Hvis det er problemer i gruppen, sætter vi tid af til at snakke sammen alle 4
- 
+  <br>
+  <br>
+  
  ### Finans til outsourcing:
  - Alle regner med at have pengene klar til dette
+  <br>
+  <br>
+  
