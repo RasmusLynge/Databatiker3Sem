@@ -3,12 +3,16 @@
   
 <img src="Magnus.png" width="100"/>  
 **Magnus Klitmose:** _Magmose_  
+  
 <img src="Mathias.png" width="100"/>  
-**Mathias Kristensen:** _mathiasbk1_  
-<img src="Simon.png" width="100"/>  
+**Mathias Kristensen:** _mathiasbk1_
+  
+<img src="Simon.jpg" width="100"/>  
 **Simon Bojesen:** _SimonBojesen_  
+  
 <img src="Rasmus.png" width="100"/>  
 **Rasmus Jacobsen:** _RasmusLynge_  
+  
   
 ###### Versionering
 I gruppen har vi valgt at bruge følgene versioner:
