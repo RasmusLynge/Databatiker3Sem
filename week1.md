@@ -25,19 +25,29 @@
 - When you agree to undertake a task that has been assigned to you by the group you must try work to the agreed deadline.
 - It is your responsibility to attend all meetings arranged by the group to advance the project, and to arrive at those meetings on time. (5-10 min late is ok)
 - If you can’t attend a meeting of the group you should consider providing your input in written form and giving this to the other group members before the meeting
+- Hvis man ikke har været klar til mandags-review (hvis man ikke har lavet opgaver mm.) skal man give et sæt til hele holdet på den lokale.
   <br>
   <br>
   
-###### Formatering:
-- I gruppen har vi valgt at bruge netbeans egen formatering (Ctrl-F)
+### Formatering:
+- I gruppen har vi valgt at bruge netbeans egen formatering (Alt-Shift-F)
 - Navngivning følger [Javas style guidelines](https://google.github.io/styleguide/javaguide.html) 
+- Javadoc skal kun skrives til public metoder og ikke til getters og setters
   <br>
   <br>
   
-###### Versionering:
+### Versionering:
 I gruppen har vi valgt at bruge følgene versioner:
-- JDK 8 ?
-- SQL 5.7.21 ?
-- Mere ?
+- Netbeans 8.2
+- JDK 1.8
+- SQL 5.7.21
+- Maven 3.6.0
   
+ ### Uge 1 Agenda:
+ - Udarbejdet på discord
  
+ ### Konflikter i gruppen:
+ - Hvis det er problemer i gruppen, sætter vi tid af til at snakke sammen alle 4
+ 
+ ### Finans til outsourcing:
+ - Alle regner med at have pengene klar til dette
