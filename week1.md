@@ -1,4 +1,4 @@
-### Uge 1 
+### Uge 1 > Gruppe & Guidelines
   
 <img src="Magnus.png" width="100"/>  
 **Magnus Klitmose:** _Magmose_  
