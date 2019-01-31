@@ -1,4 +1,5 @@
-### Uge 1
+### Uge 1 
+  (med gruppe dokument)
 ###### Versionering
 I gruppen har vi valgt at bruge følgene versioner:
 - JDK 8 ?
