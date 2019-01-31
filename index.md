@@ -5,6 +5,9 @@
 **Simon Bojesen:** _SimonBojesen_  
 **Rasmus Jacobsen:** _RasmusLynge_  
   
+###### [Group Document](week1.md)
+
+## indhold
   
 |Uge   |  Dato     |Emne |
 |-----:|:---------:|:--------------|
