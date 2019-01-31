@@ -2,7 +2,7 @@
   (med gruppe dokument)
   
   # **Gruppe 5 - MMRS - Rød**
-[Magnus](Magnus.png =250x)  **Magnus Klitmose:** _Magmose_  
+<img src="Magnus.jpg" alt="Magnus" width="200"/>  **Magnus Klitmose:** _Magmose_  
 [Mathias](Mathias.png =250x)  **Mathias Kristensen:** _mathiasbk1_  
 [Simon](Simon.png =250x)  **Simon Bojesen:** _SimonBojesen_  
 [Rasmus](Rasmus.png =250x)  **Rasmus Jacobsen:** _RasmusLynge_  
