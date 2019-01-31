@@ -1,5 +1,5 @@
 
-# **Gruppe 5 - MMRS**
+# **Gruppe 5 - MMRS - Rød**
 **Magnus Klitmose:** _Magmose_  
 **Mathias Kristensen:** _mathiasbk1_  
 **Simon Bojesen:** _SimonBojesen_  
@@ -10,7 +10,7 @@
 ###### Versionering
 I gruppen har vi valgt at bruge følgene versioner:
 - JDK 8 ?
-- SQL 5.7.21
+- SQL 5.7.21 ?
 - Mere ?
   
   
