@@ -45,11 +45,6 @@ I gruppen har vi valgt at bruge følgene versioner:
   <br>
   <br>
   
-### Uge 1 Agenda: 
-- Udarbejdet på discord
-  <br>
-  <br>
-  
 ### Konflikter i gruppen:
  - Hvis det er problemer i gruppen, sætter vi tid af til at snakke sammen alle 4
   <br>
@@ -60,3 +55,7 @@ I gruppen har vi valgt at bruge følgene versioner:
   <br>
   <br>
   
+### Uge 1 Agenda: 
+- Udarbejdet på discord
+  <br>
+  <br>
