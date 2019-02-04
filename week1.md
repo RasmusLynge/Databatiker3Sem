@@ -56,6 +56,7 @@ I gruppen har vi valgt at bruge følgene versioner:
   <br>
   
 ### Uge 1 Agenda: 
+[Test, Maven and Travis Guidelines](TMTGuidelines.md)
 - Udarbejdet på discord
   <br>
   <br>
