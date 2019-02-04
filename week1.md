@@ -56,28 +56,6 @@ I gruppen har vi valgt at bruge følgene versioner:
   
 ### Uge 1 Agenda: 
 [Test, Maven and Travis Guidelines](TMTGuidelines.md)
-  <br>
-▉ Kunne forklare generelt om begrebet Test og hvornår der hensigtsmæssigt bør testes
-▉ Kunne redegøre for ide'en bag Mike Cohn's test-pyramide
-▉ Kunne redegøre for principet bag TDD
-▉ Kunne beskrive og demonstrere brug af basalle test-mønstre til udvikling af test cases
-▉ Kunne redegøre for begrebet unit-test
-▉ Kunne beskrive og demonstrere brug af JUnit til unit test af Java kode
-▉ Kunne redegøre for hvilke aspekter af software udvikling som adresseres af Maven
-▉ Kunne redegøre for problemstillinger dette semester som kræver et værktøj som Maven
-▉ Kunne beskrive Mavens tre lifecycles
-▉ Kunne forklare Maven begreberne Project Object Model (POM), lifecycles samt plugins
-▉ Kunne demonstrere brug af Maven til, uafhængigt af et IDE, bygge, teste, og afvikle Java Software
-▉ Kunne beskrive og demonstrerer afvikling af henholdsvis unittests og integrationtests via Maven
-▉ Kunne beskrive og demonstrere automatisk test af et WEB-API ved hjælp af Maven
-▉ Kunne redegøre for begrebet Test Driven Development
-▉ Kunne redegøre for problemstillingen "It works on my machinge .."
-▉ Kunne beskrive begrebet Continuous Integration og principper involveret(CI)
-▉ Kunne beskrive et typisk CI Workflow
-▉ Kunne beskrive begreberne, og forskellen imellem, Continuous Integration, Continuous Delivery og Continuous Deployment 
-▉ Kunne demonstrere et simpelt CI eksempel/scenario afviklet på Travis
-▉ Kunne demonstrere et eksempel, involverende både unit og integrations test, afviklet på Travis
-▉ Kunne demonstrere et eksempel, involverende både unit/integrations-test, samt deployment afviklet af Travis
 
   <br>
   <br>
