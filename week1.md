@@ -25,6 +25,7 @@
 - Det er dit eget ansvar at komme til alle gruppe møder forberedt og til tiden. (5-10 min for sent er helt OK)
 - Hvis du ikke kan komme til de aftalte møder, skal du skrive en besked i gruppens messenger
 - Hvis man ikke har været klar til mandags-review (hvis man ikke har lavet opgaver mm.) skal man give et sæt til hele holdet på den lokale.
+- Hvis man pusher noget til git repository, som fejler, skal man give et sæt til holdet på den lokale.
   <br>
   <br>
   
