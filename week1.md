@@ -15,16 +15,15 @@
   
   
 ### Gruppens _Code of Conduct:_
-- Communicate openly
-- Share issues with the team
-- Use consensus for team decisions
-- Actively participate in meetings
-- The group will comunicate through messenger group and discord for meetings 
-- Be present and engaged. You are expected to make a full and fair contribution to the work of the group
-- Treat other members of the group with courtesy and respect their opinions, even if you do not necessarily agree with them
-- When you agree to undertake a task that has been assigned to you by the group you must try work to the agreed deadline.
-- It is your responsibility to attend all meetings arranged by the group to advance the project, and to arrive at those meetings on time. (5-10 min late is ok)
-- If you can’t attend a meeting of the group you should consider providing your input in written form and giving this to the other group members before the meeting
+- Åben komunikation i gruppen
+- Fortæl gruppen hvis du har problemer med opgaverne
+- Hjælp andre i gruppen hvis de har svært ved opgaverne 
+- Deltag aktivt i møder/undervisning (det forventes at alle ca. laver 1/4 af gruppearbejdet)
+- Kommunikation vil foregå på gruppens messenger chat og discord for møder eller større diskutioner
+- Behandel andre i gruppen med respekt også hvis du ikke er enige med dere holdninger.
+- Når su har påtaget dig en opgave med gruppen, skal opgaven være klar til deadline. hvis du ikke tror at du kan nå det, skal du hurtigst muligt forklare det til resten af gruppen via messenger.
+- Det er dit eget ansvar at komme til alle gruppe møder forberedt og til tiden. (5-10 min for sent er helt OK)
+- Hvis du ikke kan komme til de aftalte møder, skal du skrive en besked i gruppens messenger
 - Hvis man ikke har været klar til mandags-review (hvis man ikke har lavet opgaver mm.) skal man give et sæt til hele holdet på den lokale.
   <br>
   <br>
@@ -46,17 +45,16 @@ I gruppen har vi valgt at bruge følgene versioner:
   <br>
   
 ### Konflikter i gruppen:
- - Hvis det er problemer i gruppen, sætter vi tid af til at snakke sammen alle 4
+ Hvis det er problemer i gruppen, sætter vi tid af til at snakke sammen alle 4
   <br>
   <br>
   
 ### Finans til outsourcing:
- - Alle regner med at have pengene klar til dette
+ Alle regner med at have pengene klar til dette
   <br>
   <br>
   
 ### Uge 1 Agenda: 
 [Test, Maven and Travis Guidelines](TMTGuidelines.md)
-- Udarbejdet på discord
   <br>
   <br>
