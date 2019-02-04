@@ -1,12 +1,10 @@
-### A set of guidelines, explaining how and what to do for a future project that must be able to:
+## A set of guidelines, explaining how and what to do for a future project that must be able to:
 
-##### Unit Test all “relevant” public methods via Maven
-##### Exclude integration tests from your unit test, and why this is necessary
+###### Unit Test all “relevant” public methods via Maven
+###### Exclude integration tests from your unit test, and why this is necessary
 
-```
 Tilføj maven surefire og failsafe plugin:
-
-
+```
 <plugin>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-surefire-plugin</artifactId>
@@ -38,7 +36,7 @@ Tilføj maven surefire og failsafe plugin:
 </plugin>
 ```
 
-##### Perform integration tests, and only integration tests, via maven’s verify phase
-##### How and what to do, to test a Tomcat based WEB-API, via maven’s verify phase
-##### How and what to do, to deploy your code via maven.
-##### How and what to do, to integrate your project with Travis
+###### Perform integration tests, and only integration tests, via maven’s verify phase
+###### How and what to do, to test a Tomcat based WEB-API, via maven’s verify phase
+###### How and what to do, to deploy your code via maven.
+###### How and what to do, to integrate your project with Travis
