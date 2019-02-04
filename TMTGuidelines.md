@@ -1,5 +1,6 @@
 ## Test, Maven and Travis Guidelines 
-
+A set of guidelines, explaining how and what to do for a future project that must be able to do the following:  
+  
 ###### Unit Test all “relevant” public methods via Maven
 ###### Exclude integration tests from your unit test, and why this is necessary
 
